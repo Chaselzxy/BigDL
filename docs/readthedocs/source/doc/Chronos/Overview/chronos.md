@@ -10,7 +10,7 @@ You can use _Chronos_ to do:
 - **Anomaly Detection** (using [Anomaly Detectors](./anomaly_detection.html#anomaly-detection))
 - **Synthetic Data Generation** (using [Simulators](./simulation.html#generate-synthetic-data))
 - **Speed up or tune your customized time-series model** (using TSTrainer and [AutoTS](./forecasting.html#use-autots-pipeline))
-[](../../../../../../../c:/Users/xinyizh2/OneDrive%20-%20Intel%20Corporation/Desktop/blank.mp4)
+<iframe height=498 width=510 src="../../../../../../../c:/Users/xinyizh2/OneDrive%20-%20Intel%20Corporation/Desktop/blank.mp4">
 ---
 ### **2. Install**
 
